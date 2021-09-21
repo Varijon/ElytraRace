@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elytrarace",
+  "name": "ElytraRace",
+  "description": "Mod for doing ring base elytra races.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
